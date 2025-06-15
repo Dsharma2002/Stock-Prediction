@@ -1,0 +1,1 @@
+Stock price prediction in Python with PyTorch using a Long Short-Term Memory (LSTM) based architecture.
